@@ -1,0 +1,15 @@
+# Compiled classes
+out/
+bin/
+*.class
+
+# Runtime data (created when the program runs)
+data/
+reports/
+
+# IDE / OS
+.idea/
+*.iml
+.vscode/
+nbproject/private/
+.DS_Store
